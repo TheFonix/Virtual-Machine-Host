@@ -68,4 +68,4 @@ sleep 2
 echo "Installing netcat-openbsd"
 apt install netcat-openbsd -y
 
-echo "Done!
+echo "Done!"
